@@ -1,4 +1,4 @@
-# python banking program
+# simple python banking program
 
 def show_bal(balance):
     print("#############################")
